@@ -1,0 +1,10 @@
+public class HelloWorld
+{
+ 
+  public HelloWorld()
+  {}
+  public String HelloWorld
+  {
+    return "Hello World!";
+  }
+}

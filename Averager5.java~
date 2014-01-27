@@ -1,0 +1,7 @@
+public class Averager5
+{
+  public double Average(int one, int two, int three, int four, int five)
+  {
+    return ((one + two + three + four + five) / 5)
+  }
+}
